@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-08-23T16:25:43" hostname="DESKTOP-PE5C432" time="54.224">
+  <properties/>
+  <testcase name="createUser" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="23.704"/>
+  <testcase name="createUserWithArray" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="3.214"/>
+  <testcase name="createUserWithList" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="5.776"/>
+  <testcase name="deleteUser" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="2.068"/>
+  <testcase name="getUserByUsername" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="7.482"/>
+  <testcase name="loginWithArray" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="10.197"/>
+  <testcase name="putUpdateUser" classname="com.bridgelabz.petstorerestassuredtesting.PetStoreRestAssuredTestingForUser" time="1.749"/>
+  <system-out><![CDATA[{
+    "code": 200,
+    "type": "unknown",
+    "message": "9222968140497207626"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "ok"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "ok"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "Ashwini"
+}
+{
+    "id": 9222968140497207510,
+    "username": "pranalijadhav",
+    "firstName": "pranali",
+    "lastName": "jadhav",
+    "email": "jadhavpranali55@gmail.com",
+    "password": "Pranali24",
+    "phone": "8450939795",
+    "userStatus": 0
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "logged in user session:1661271851887"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "9222968140497207629"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

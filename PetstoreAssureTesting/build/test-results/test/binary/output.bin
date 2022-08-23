@@ -1,0 +1,40 @@
+{
+    "code": 200,
+    "type": "unknown",
+%    "message": "9222968140497207626"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "ok"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "ok"
+}
+{
+    "code": 200,
+    "type": "unknown",
+    "message": "Ashwini"
+}
+{
+    "id": 9222968140497207510,
+!    "username": "pranalijadhav",
+    "firstName": "pranali",
+    "lastName": "jadhav",
+*    "email": "jadhavpranali55@gmail.com",
+    "password": "Pranali24",
+    "phone": "8450939795",
+    "userStatus": 0
+}
+{
+    "code": 200,
+    "type": "unknown",
+6    "message": "logged in user session:1661271851887"
+}
+{
+    "code": 200,
+    "type": "unknown",
+%    "message": "9222968140497207629"
+}
